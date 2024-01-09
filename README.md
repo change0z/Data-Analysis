@@ -15,4 +15,5 @@
  ## Data Source
 
  The data being used for Tree Survival Prediction can be found [here](https://zenodo.org/records/10081553). 
- *The data is officially being used for Tree seedling functional traits mediate plant-soil feedback survival responses across a gradient of light availabilityfrom authors affiliated with Michigan State University, University of Michigan-Ann Arbor and Tennessee State University.*
+ 
+ *The data is officially being used for Tree seedling functional traits mediate plant-soil feedback survival responses across a gradient of light availability from authors affiliated with Michigan State University, University of Michigan-Ann Arbor and Tennessee State University.*
