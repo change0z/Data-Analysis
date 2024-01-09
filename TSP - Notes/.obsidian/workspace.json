@@ -11,8 +11,12 @@
             "id": "2c62a77c1b01cd7a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Card.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Card.md"
+              }
             }
           },
           {
@@ -152,13 +160,13 @@
   },
   "active": "2c62a77c1b01cd7a",
   "lastOpenFiles": [
+    "Dataset info.md",
+    "Data Card.md",
+    "Reference Materials.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Tree Survival Prediction and Sterility Prediction..md",
-    "Data Card.md",
-    "Dataset info.md",
     "References/J Vegetation Science - 2021 - Holík - Light can modify density‐dependent seedling mortality in a temperate forest.pdf",
-    "Reference Materials.md",
     "References/Journal of Ecology - 2003 - Bloor - Growth and mortality in high and low light  trends among 15 shade‐tolerant tropical.pdf",
     "References/New Phytologist - 2018 - McDowell - Drivers and mechanisms of tree mortality in moist tropical forests.pdf",
     "References/Machine Learning for Survival Analysis: A Survey.pdf",

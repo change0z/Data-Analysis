@@ -26,4 +26,6 @@
 | Event | Used for survival analysis to indicate status of each individual seedling at a given time (above) 0 = harvested or experiment ended 1 = dead  |
 | Harvest | Indicates whether the seedling was harvested for trait measurement |
 | Alive | Indicates if the seedling was alive at the end of the second growing season. "X" in this field indicates alive status. |
+
+
 Information about the dataset can be found in the file [[Dataset info]]
