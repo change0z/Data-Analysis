@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d12ce1a88550a49f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chi_2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "73cb18decb14fa19",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Card.md",
+                "file": "Chi_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Card.md",
+                "file": "Chi_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Card.md"
+                "file": "Chi_2.md"
               }
             }
           },
@@ -158,10 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c62a77c1b01cd7a",
+  "active": "d12ce1a88550a49f",
   "lastOpenFiles": [
-    "Dataset info.md",
     "Data Card.md",
+    "Chi_2.md",
+    "Dataset info.md",
     "Reference Materials.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
