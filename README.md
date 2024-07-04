@@ -1,16 +1,22 @@
 # Data-Analysis
  
- This is a repo for the data analysis project of Tree Survival Prediction and Tree Stereility Prediction.
+ This is a repo for Data Analyis Projects by Ziyad Shaikh.
 
  ## Index
 
- 1. [Model 1 - Domain Knowledge](m1.ipynb) - This notebook is for the tree survival prediction analysis based on just domain knowledge and research.
+### 1. Tree Survival Prediction
 
- 2. [Model 2- Grid Search CV](m2.ipynb) - This notebook is for the tree survival prediction analysis by selecting features using Grid Search CV.
+  1. [Model 1 - Domain Knowledge]([m1.ipynb](https://github.com/change0z/Data-Analysis/blob/main/Tree%20Survival%20Predictiom/m1.ipynb)) - This notebook is for the tree survival prediction analysis based on just domain knowledge and research.
 
- 3. [Model 3 - Tree Sterility Prediction](m3.ipynb) - This notebook is for creating a model that classifies if the soil is sterile using KNN.
+  2. [Model 2- Grid Search CV](m2.ipynb) - This notebook is for the tree survival prediction analysis by selecting features using Grid Search CV.
 
- 4. [Exploratory Data Analysis](EDA.ipynb) - This notebook is for the exploratory data analysis of the data.
+  3. [Model 3 - Tree Sterility Prediction](m3.ipynb) - This notebook is for creating a model that classifies if the soil is sterile using KNN.
+
+  4. [Exploratory Data Analysis](EDA.ipynb) - This notebook is for the exploratory data analysis of the data.
+
+### 2. Bank Churn Analysis
+
+ 
 
  ## Data Source
 
