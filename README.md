@@ -6,7 +6,7 @@
 
 ### 1. Tree Survival Prediction
 
-  1. [Model 1 - Domain Knowledge]([m1.ipynb](https://github.com/change0z/Data-Analysis/blob/main/Tree%20Survival%20Predictiom/m1.ipynb)) - This notebook is for the tree survival prediction analysis based on just domain knowledge and research.
+  1. [Model 1 - Domain Knowledge](https://github.com/change0z/Data-Analysis/blob/main/Tree%20Survival%20Predictiom/m1.ipynb) - This notebook is for the tree survival prediction analysis based on just domain knowledge and research.
 
   2. [Model 2- Grid Search CV](m2.ipynb) - This notebook is for the tree survival prediction analysis by selecting features using Grid Search CV.
 
